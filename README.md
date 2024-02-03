@@ -24,10 +24,4 @@ Describe the purpose and goals of your project. Include a brief overview of the 
 - **Cart Summary:** Show a summary of the items in the cart.
 - **Redux State Management:** Utilize Redux for state management.
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/shopping-website.git
-cd shopping-website
